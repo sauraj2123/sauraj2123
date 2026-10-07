@@ -21,7 +21,7 @@
 
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" /> About me
 
-- 🎓 Studying data science & AI at **Macquarie University**, Sydney
+- 🎓 Business Analytics Graduate from **Macquarie University**, Sydney
 - 🤖 Into machine learning, deep learning and LLM-powered tools
 - 🛠️ Building **Job Scout**, an AI job-search assistant
 - 🏗️ Built a **PostgreSQL data warehouse** with ETL, modelling and analytics
