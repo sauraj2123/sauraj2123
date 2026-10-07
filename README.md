@@ -1,16 +1,16 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:7f5af0&height=200&section=header&text=Hey,%20I'm%20Sauraj&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Data%20%E2%80%A2%20AI%20%E2%80%A2%20Music&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1020,50:14532d,100:22c55e&height=200&section=header&text=Hey,%20I'm%20Sauraj&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Data%20%E2%80%A2%20AI%20%E2%80%A2%20Music&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://github.com/sauraj2123">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=7F5AF0&center=true&vCenter=true&width=620&lines=Turning+data+into+decisions+%F0%9F%93%8A;Training+models%2C+breaking+them%2C+training+again+%F0%9F%A4%96;Building+with+LLMs+%26+agentic+AI+%E2%9A%A1;Coding+with+the+volume+all+the+way+up+%F0%9F%8E%A7" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=22C55E&center=true&vCenter=true&width=620&lines=Turning+data+into+decisions+%F0%9F%93%8A;Training+models%2C+breaking+them%2C+training+again+%F0%9F%A4%96;Building+with+LLMs+%26+agentic+AI+%E2%9A%A1;Coding+with+the+volume+all+the+way+up+%F0%9F%8E%A7" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sauraj2123&color=7f5af0&style=flat-square&label=Profile+views" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=sauraj2123&color=22c55e&style=flat-square&label=Profile+views" alt="profile views" />
 </p>
 
 ---
@@ -85,11 +85,11 @@
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sauraj2123&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7f5af0&icon_color=2cb67d&include_all_commits=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sauraj2123&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7f5af0&langs_count=8" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sauraj2123&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22c55e&icon_color=22c55e&include_all_commits=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sauraj2123&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22c55e&langs_count=8" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sauraj2123&theme=tokyonight&hide_border=true&background=0d1117&ring=7f5af0&fire=2cb67d&currStreakLabel=7f5af0" />
+  <img src="https://streak-stats.demolab.com?user=sauraj2123&theme=tokyonight&hide_border=true&background=0d1117&ring=22c55e&fire=22c55e&currStreakLabel=22c55e" />
 </p>
 
 ---
@@ -137,5 +137,5 @@ class Sauraj:
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7f5af0,50:302b63,100:0f0c29&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,50:14532d,100:0b1020&height=120&section=footer" width="100%" />
 </p>
