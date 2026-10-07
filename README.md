@@ -71,8 +71,9 @@
 | Project | What it is |
 |---|---|
 | [🏛️ SQL Data Warehouse](https://github.com/sauraj2123/SQL---DataWarehouseProject) | PostgreSQL warehouse: ETL, data modelling, analysis |
-| [🧠 Deep Learning](https://github.com/sauraj2123/portfolio-deep-learning) | CNNs, transfer learning, RAG |
-| [🤖 Machine Learning](https://github.com/sauraj2123/portfolio-machine-learning) | Supervised learning, feature engineering, pipelines |
+| [🙂 Facial Emotion Detection](https://github.com/sauraj2123/Facial-Emotion-Detection) | Custom CNN vs transfer learning, 83.6% test accuracy |
+| [🔢 SVHN Digit Recognition](https://github.com/sauraj2123/SVHN-Digit-Recognition) | ANN vs CNN on street-view digits, 90% test accuracy |
+| [🍔 FoodHub Order Analysis](https://github.com/sauraj2123/FoodHub-Data-Analysis) | EDA of 1,898 food-delivery orders |
 | [📊 Data Visualisation](https://github.com/sauraj2123/portfolio-data-visualisation) | ggplot2 and Tableau |
 | [📈 PREDICTOR](https://github.com/sauraj2123/PREDICTOR) | LSTM stock price prediction |
 
